@@ -10,7 +10,7 @@ nmsl wsnd
 nmsl wsnd123
 nmsl wsnd
 nmsl wsnd testmaster01
-nmsl wsnd
+nmsl wsnd testdev02
 zzzznmsl wsnd
 nmsl wsnd
 nmsl wsnd
